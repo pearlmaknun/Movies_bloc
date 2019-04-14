@@ -1,6 +1,7 @@
 # bloc_pattern
 
 A new Flutter project.
+Learn from https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1
 
 ## Getting Started
 
